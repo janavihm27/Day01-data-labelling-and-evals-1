@@ -1,0 +1,9 @@
+id	source_id	timestamp	status	            label
+1	srcA	    0.5	        matched	            active
+2	srcA	    1.0	        no_positive	        none
+3	srcA	    1.5	        unmatched	        active
+4	srcA	    2.0	        no_box	            active
+5	srcB	    0.5	        matched	            passive
+6	srcB	    1.0	        outside_window	    passive
+7	srcB	    1.5	        no_generator_result	unknown
+8	srcB	    2.0	        no_positive	        none
